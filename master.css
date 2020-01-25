@@ -39,6 +39,7 @@ html,body{
     text-align: right;
     overflow: hidden;
     background-color: rgb(181, 209, 236);
+    font-size: 20;
 }
 
 .main{
